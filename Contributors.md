@@ -189,11 +189,12 @@ vsp0
 - Saurav Baid ( github.com/SauravBaid)
 -Nicole Perey
 -Jesus Gil
-- Robbie Murray (hhtps://github.com/RobbieMurray)
+- Robbie Murray (https://github.com/RobbieMurray)
 - Björn Persson
 -Jawad-nafad
 -Andy Seracuse
 -Vikas Palakurthi
+- Jasum(https://github.com/j4sum)
 -Bhavesh K.
 -Stergios Sozos
 - Sara Sands
